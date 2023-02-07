@@ -1,0 +1,29 @@
+﻿body {
+}
+
+/* Style the header */
+.header {
+    
+    padding: 1px;
+    text-align: center;
+}
+
+h2 {
+    margin-left: 25px;  
+}
+
+h3 {
+    font-family: 'Brush Script MT';
+    font-size: 20px;
+    margin-left:30px;
+}
+
+ul {
+    list-style: square inside url("sqpurple.gif");
+    margin-left:250px; 
+}
+
+li {
+    font-family:'Brush Script MT';
+    font-size: 30px;
+}

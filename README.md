@@ -1,9 +1,7 @@
 # WorldOfPoetry-Website
 ## World Of Poetry Website
 
-This website is built on the .NET Framework. 
-
-It is a website that contains the authors and their poems. 
+This website is a website that contains the authors and their poems. 
 
 There are parts of the poems under the images on the main page. 
 
